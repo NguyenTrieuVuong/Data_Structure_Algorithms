@@ -1,0 +1,4 @@
+Tao doi tuong la WordCount gom 2 thuoc tinh la word va count. Doi tuong
+WordCount nap chong phuong thuc equals(Object o) de co the su dung phuong
+thuc isContain da xay dung o cac cau truc du lieu tren, hoac co the su dung phuong
+thuc indexOf cua cac đoi tuong cai dat giao dien List.
